@@ -8,6 +8,7 @@ const Feed = () => {
   const [selectedCategory, setSelectedCategory] = useState("New");
   const [videos, setVideos] = useState(null);
 
+  // Fetching data
   useEffect(() => {
     setVideos(null);
 
