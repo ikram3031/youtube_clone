@@ -1,3 +1,3 @@
-# youtube_clone using react
+# youtube_clone using React, Material UI
 
-External API Ued: RAPID API YOUTUBE V3
+External API Used: RAPID API YOUTUBE V3
